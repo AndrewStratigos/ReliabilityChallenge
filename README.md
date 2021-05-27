@@ -1,7 +1,7 @@
 # ReliabilityChallenge
 The purpose of this code project is to start off with an unreliable system. The challenge is to make it reliable.
 
-**File Helpers:**
+**File Descriptions:**
 - Program.cs: A generic entry point. You are free to make changes.
 - ConsoleApp: A generic .netcore ConsoleApp. You are free to make changes.
 
