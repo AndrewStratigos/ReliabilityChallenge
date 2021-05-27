@@ -19,7 +19,8 @@ Services:
 
 **Rules:**
 - You are able to edit all files, except the "RequestProcessingService.cs" (this is because; this is the file that introduces the unreliability.)
-- You must generate your responses using the RequestingProcessingService, you cannot create your own request processing service to side-step the reliability problems in this method.
+- You must generate your responses using the unreliable RequestingProcessingService, you cannot create your own request processing service to side-step the reliability problems within the method.
+- You are free to use any libraries to assist, (selecting appropriate libraries is prefered, over coding everything yourself.)
 - Your code changes must address the below issues
 
 **Issues to resolve:**
