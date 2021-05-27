@@ -22,6 +22,7 @@ Services:
 - You must generate your responses using the unreliable RequestingProcessingService, you cannot create your own request processing service to side-step the reliability problems within the method.
 - You are free to use any libraries to assist, (selecting appropriate libraries is prefered, over coding everything yourself.)
 - Your code changes must address the below issues
+- DO NOT POST your answer in a pull request, contact me via email to discuss, or to send your results
 
 **Issues to resolve:**
 - Users have been complaning that when using this service in production, they sometimes recieve an unrelated error, something about dividing by zero, they are wondering if theres a way you can make this error go away, while still returning them a result, the user doesnt mind if they have to wait extra time.
